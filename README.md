@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adesh Gautam</h1>
+<h1 align="center">Namaste 🙏, I'm Adesh Gautam</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adesgautam" alt="adesgautam" /> </p>
 
 - 📝 I write articles on [https://medium.com/@adeshg7](https://medium.com/@adeshg7)
